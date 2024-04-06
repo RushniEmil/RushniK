@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushni K.</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [FullStackFocus_blog](https://github.com/RushniEmil/full-stack-focus-blog.git)
+- 🔭 I’m currently working on [Insight Loom Blog Application](https://github.com/RushniEmil/insight_loom.git)
 
 - 💬 Ask me about **Full Stack Web Development with Python, Django, SQL at the backend and HTML, CSS, JavaScript and Bootstrap as frontend technologies.**
 
