@@ -3,7 +3,7 @@
 Full-Stack Developer specializing in React, TypeScript, and ASP.NET Core.
 
 📧 rushnik89@gmail.com  
-🔗 LinkedIn: your-linkedin-url
+🔗 LinkedIn: https://www.linkedin.com/in/rushni-k/
 
 ## About Me
 - 3+ years of experience building enterprise applications
